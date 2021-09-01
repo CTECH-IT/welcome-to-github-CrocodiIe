@@ -2,9 +2,10 @@
 # Welcome-to-GitHub
 First repository for new users
 
-Please enter your name:
-
-Please enter your favorite color:
-
+Please enter your name: Bradley Grupczynski
+# added name, "Bradley Grupczynski"
+Please enter your favorite color: White
+# added fav. color, "White"
 Save and push this file back up to GitHub. 
 Make sure to add a commit comment: "Added name and color"!
+# Added name and color! 
